@@ -1,2 +1,2 @@
 # tareas-render
-api rest de tareas con render
+api rest con django para tareas
